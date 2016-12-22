@@ -1,0 +1,121 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+form {
+    Padding-top: 5%;
+}
+
+h1{
+    font-weight: 300%;
+    font-size: 400%;
+}
+
+.TopPadding{
+    Padding-top: 3%;
+}
+
+.navbarcolor{
+
+}
+
+.control {
+    color:#000 !important;
+    padding:1%;
+    font-size:250%;
+}
+
+label {
+    color: #000000; !important;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.line{
+    border-bottom : 2px solid #00aa8e;
+}
+
+.VakInvoegen{
+    Width: 35%;
+}
+
+.outter{
+    margin: 5px;
+    padding: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.29);
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.footer{
+    color: white;
+    padding-left:10%;
+    background-color: #01b194;
+}
+
+.btn-verzend{
+    margin-top: 15px;
+}
+
+textarea {
+    resize: none;
+}
+
+.btn-style{
+    background-color: #115f5d;
+    color: #fff;
+}
+
+.btn-style:hover{
+    color: #fff;
+}
+
+.navbar-custom{
+    background-color:#00aa8e;
+}
+.navbar-header a{
+    color: #fff;
+}
+.nav li a{
+    color: #fff;
+}
+.nav li a:hover{
+    background-color: #00694b;
+}
+
+.kleur-effect{
+    background-color:#F2F2F2;
+}
+
+.bgcolor{
+    background-color:#F2F2F2;
+}
+
+.btn-style{
+    background-color:#00aa8e;
+    color: #fff;
+}
+
+.btn-style:hover{
+    color: #fff;
+    background-color: #00694b;
+}
+
+.navbar-QR {
+    background-color: #00b295;
+    border-color: #00aa8e;
+    color: #FFFFFF; !important;
+}
+
+.NavText{
+    color: #FFFFFF;
+}
